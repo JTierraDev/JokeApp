@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "JokeApp",
+    "slug": "JokeApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/calimasolutions_logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/calimasolutions_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f6f6f6"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/calimasolutions_logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.jtierradev.JokeApp"
+    },
+    "web": {
+      "favicon": "./assets/calimasolutions_logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6de34cdc-d74c-4a57-96a4-5afb65c596a2"
+      }
+    }
+  }
+}
