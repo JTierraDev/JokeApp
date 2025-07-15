@@ -26,7 +26,7 @@ export default function Header() {
   return (
     <View style={styles.header}>
       {/* Logo */}
-      <Image source={require('../assets/calimasolutions_logo.png')} style={styles.logo} />
+      <Image source={require('../assets/JT_Logo.png')} style={styles.logo} />
       
       {/* App Name with corporate style*/}
       <View style={styles.titleContainer}>

@@ -20,7 +20,7 @@ export default function WelcomeScreen({ navigation }) {
 
         {/** Logo up in the screen */}
         <View style={styles.logoContainer}>
-            <Image source={require('../assets/calimasolutions_logo.png')} style={styles.logo} />
+            <Image source={require('../assets/JT_Logo.png')} style={styles.logo} />
         </View>
         
         {/** Wellcome and description of the app*/}

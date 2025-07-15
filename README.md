@@ -1,3 +1,28 @@
+⚡️ Project Context
+
+    Important note:
+    This app was developed in just 4 days as a technical test for a job application. The instructions were:
+
+        “Please create a joke app that fetches and displays random jokes from JokeAPI.
+        It must have two tabs: Home and My Favorites. In Home, users can save jokes to their favorites list.
+        The Favorites tab must display saved jokes and allow users to remove them.
+        Please provide a working APK and the code (GitLab repo) for testing. You can use Expo to build the APK.”
+
+    Originally, the app used the company’s logo and brand colors. Out of respect and privacy, the logo image has been replaced with a personalized version that keeps the original color palette.
+
+    ✅ The only changes made before uploading to GitHub:
+
+        Updated the Expo SDK for compatibility:
+
+            npx expo install expo@latest
+
+            npx expo install --fix
+
+        Substituted the original logo.
+
+    ⚙️ Many improvements could still be made, but the project is kept as-is to reflect its original purpose:
+    a quick technical test done in a short timeframe.
+    
 # 😂 JokeApp
 
 JokeApp is a mobile application that fetches random jokes from the **JokeAPI** and allows users to save their favorite jokes.  
@@ -15,7 +40,7 @@ To run the app on your local machine, follow these steps:
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone git@gitlab.com:jtierradev1/JokeApp.git
+git clone https://github.com/JTierraDev/JokeApp.git
 cd JokeApp
 ```
 
@@ -100,12 +125,23 @@ Some possible enhancements for future versions:
 
 ---
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="./screenshots/JokeApp_WellcomeScreen.png" alt="Welcome Screen" width="23%"/>
+  <img src="./screenshots/JokeApp_HomeScreen.png" alt="Home Screen" width="23%"/>
+  <img src="./screenshots/JokeApp_FavoritesScreen.png" alt="Favorites Screen" width="23%"/>
+  <img src="./screenshots/JokeApp_Info.png" alt="Info Screen" width="23%"/>
+</p>
+
+---
+
 ## 👨‍💻 Author
 
 - **Developer:** Jaime Tierra (JTierraDev)
 - 📅 **Release Date:** March 14, 2025
 - ✉️ **Contact:** [jtierra.dev@outlook.com](mailto:jtierra.dev@outlook.com)
-- 🌐 **GitLab Repository:** [JokeApp](https://gitlab.com/jtierradev1/JokeApp)
+- 🌐 **GitHub Repository:** [JokeApp](https://github.com/JTierraDev/JokeApp)
 
 ---
 
